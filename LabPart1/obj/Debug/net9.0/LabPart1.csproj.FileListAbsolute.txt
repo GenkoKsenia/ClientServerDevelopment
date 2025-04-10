@@ -1,0 +1,14 @@
+C:\Users\konus\Desktop\ClientServer\LabPart1\bin\Debug\net9.0\LabPart1.exe
+C:\Users\konus\Desktop\ClientServer\LabPart1\bin\Debug\net9.0\LabPart1.deps.json
+C:\Users\konus\Desktop\ClientServer\LabPart1\bin\Debug\net9.0\LabPart1.runtimeconfig.json
+C:\Users\konus\Desktop\ClientServer\LabPart1\bin\Debug\net9.0\LabPart1.dll
+C:\Users\konus\Desktop\ClientServer\LabPart1\bin\Debug\net9.0\LabPart1.pdb
+C:\Users\konus\Desktop\ClientServer\LabPart1\obj\Debug\net9.0\LabPart1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konus\Desktop\ClientServer\LabPart1\obj\Debug\net9.0\LabPart1.AssemblyInfoInputs.cache
+C:\Users\konus\Desktop\ClientServer\LabPart1\obj\Debug\net9.0\LabPart1.AssemblyInfo.cs
+C:\Users\konus\Desktop\ClientServer\LabPart1\obj\Debug\net9.0\LabPart1.csproj.CoreCompileInputs.cache
+C:\Users\konus\Desktop\ClientServer\LabPart1\obj\Debug\net9.0\LabPart1.dll
+C:\Users\konus\Desktop\ClientServer\LabPart1\obj\Debug\net9.0\refint\LabPart1.dll
+C:\Users\konus\Desktop\ClientServer\LabPart1\obj\Debug\net9.0\LabPart1.pdb
+C:\Users\konus\Desktop\ClientServer\LabPart1\obj\Debug\net9.0\LabPart1.genruntimeconfig.cache
+C:\Users\konus\Desktop\ClientServer\LabPart1\obj\Debug\net9.0\ref\LabPart1.dll
