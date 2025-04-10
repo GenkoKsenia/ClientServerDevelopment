@@ -7,7 +7,7 @@ namespace LabPart1
     {
         static ManualResetEvent waitHandle = new ManualResetEvent(false);
 
-        static void Main()
+        static void Main2()
         {
             Console.WriteLine("=== Эксперимент 1: Запуск первого потока первым ===");
             RunExperiment(startSecondThreadFirst: false);

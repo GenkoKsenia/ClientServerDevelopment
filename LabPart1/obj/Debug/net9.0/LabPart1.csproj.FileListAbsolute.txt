@@ -12,3 +12,4 @@ C:\Users\konus\Desktop\ClientServer\LabPart1\obj\Debug\net9.0\refint\LabPart1.dl
 C:\Users\konus\Desktop\ClientServer\LabPart1\obj\Debug\net9.0\LabPart1.pdb
 C:\Users\konus\Desktop\ClientServer\LabPart1\obj\Debug\net9.0\LabPart1.genruntimeconfig.cache
 C:\Users\konus\Desktop\ClientServer\LabPart1\obj\Debug\net9.0\ref\LabPart1.dll
+C:\Users\konus\Desktop\ClientServer\LabPart1\obj\Debug\net9.0\LabPart1.sourcelink.json
