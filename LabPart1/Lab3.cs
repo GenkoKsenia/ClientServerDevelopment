@@ -8,7 +8,7 @@ namespace LabPart1
         static AutoResetEvent arccosReady = new AutoResetEvent(false);
         static bool running = true;
 
-        static void Main()
+        static void Main3()
         {
             Thread cosThread = new Thread(CalculateCos);
             Thread arccosThread = new Thread(CalculateArccos);
