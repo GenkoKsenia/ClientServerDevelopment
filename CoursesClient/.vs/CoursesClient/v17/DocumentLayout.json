@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\konus\\source\\repos\\CoursesClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A66A97F5-8C55-411E-9C46-95DE7D616123}|CoursesClient\\CoursesClient.csproj|c:\\users\\konus\\source\\repos\\coursesclient\\coursesclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66A97F5-8C55-411E-9C46-95DE7D616123}|CoursesClient\\CoursesClient.csproj|solutionrelative:coursesclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\konus\\source\\repos\\CoursesClient\\CoursesClient\\Program.cs",
+              "RelativeDocumentMoniker": "CoursesClient\\Program.cs",
+              "ToolTip": "C:\\Users\\konus\\source\\repos\\CoursesClient\\CoursesClient\\Program.cs",
+              "RelativeToolTip": "CoursesClient\\Program.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAwwJgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:25:33.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

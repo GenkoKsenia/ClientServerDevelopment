@@ -1,0 +1,10 @@
+C:\Users\konus\source\repos\CoursesClient\CoursesClient\bin\Debug\CoursesClient.exe.config
+C:\Users\konus\source\repos\CoursesClient\CoursesClient\bin\Debug\CoursesClient.exe
+C:\Users\konus\source\repos\CoursesClient\CoursesClient\bin\Debug\CoursesClient.pdb
+C:\Users\konus\source\repos\CoursesClient\CoursesClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\konus\source\repos\CoursesClient\CoursesClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\konus\source\repos\CoursesClient\CoursesClient\obj\Debug\CoursesClient.csproj.AssemblyReference.cache
+C:\Users\konus\source\repos\CoursesClient\CoursesClient\obj\Debug\CoursesClient.csproj.CoreCompileInputs.cache
+C:\Users\konus\source\repos\CoursesClient\CoursesClient\obj\Debug\CoursesC.F9516DB1.Up2Date
+C:\Users\konus\source\repos\CoursesClient\CoursesClient\obj\Debug\CoursesClient.exe
+C:\Users\konus\source\repos\CoursesClient\CoursesClient\obj\Debug\CoursesClient.pdb
